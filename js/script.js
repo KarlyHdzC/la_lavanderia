@@ -8,4 +8,9 @@ $(document).ready(function(){
         transition:500,
         interval:6000
     })
+    //Carta
+    $('.materialboxed').materialbox();
+    
+    //ScrollSpy
+    $('.scrollspy').scrollSpy();
 })
